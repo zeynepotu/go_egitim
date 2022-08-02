@@ -1,0 +1,11 @@
+Modül mimarisi
+Modülün içerisinde paketler oluyor.Paketler de içerisinde birbiriyle alakalı fonksiyonlar içeriyor.
+"fmt"= Format içerisinden print ya da println fonksiyonlarını kullanıyoruz.
+DRY= Dont Repeat Yourself
+var yerine := hem tanımlıyorum hem atama yapıyorum demek.
+printf("veri tipi %T\n ", kdv)
+
+Şart Bloklarıyla Çalışmak
+iç içe if bloğu oluşturulabilir.
+
+
